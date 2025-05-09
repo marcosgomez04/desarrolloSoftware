@@ -1,1 +1,1 @@
-console.log("Holiiiis... Cuando llego digo 'Holis' cuando me voy digo 'Chauchis'")
+console.log("Me volves a borrar todo el progreso y te van a desaparecer familiares");
